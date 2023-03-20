@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//repair file
+
 int ageq(int a) {
 	int c = 0;
 	if (a == 1) {
